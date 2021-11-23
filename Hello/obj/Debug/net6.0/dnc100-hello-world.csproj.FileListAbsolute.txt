@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\bin\Debug\net6.0\dnc100-hello-world.exe
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\bin\Debug\net6.0\dnc100-hello-world.deps.json
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\bin\Debug\net6.0\dnc100-hello-world.runtimeconfig.json
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\bin\Debug\net6.0\dnc100-hello-world.dll
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\bin\Debug\net6.0\ref\dnc100-hello-world.dll
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\bin\Debug\net6.0\dnc100-hello-world.pdb
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\obj\Debug\net6.0\dnc100-hello-world.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\obj\Debug\net6.0\dnc100-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\obj\Debug\net6.0\dnc100-hello-world.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\obj\Debug\net6.0\dnc100-hello-world.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\obj\Debug\net6.0\dnc100-hello-world.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\obj\Debug\net6.0\dnc100-hello-world.dll
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\obj\Debug\net6.0\ref\dnc100-hello-world.dll
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\obj\Debug\net6.0\dnc100-hello-world.pdb
+C:\Users\angel\OneDrive\Documents\apprentice\dnc100-hello-world\Hello\obj\Debug\net6.0\dnc100-hello-world.genruntimeconfig.cache
